@@ -37,13 +37,13 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>127.0.0.1</string>
+			<string>192.168.1.9</string>
 			<key>ProxyServerPort</key>
-			<integer>9999</integer>
+			<integer>8899</integer>
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
-			<string>HwPW_5G</string>
+			<string>NG-h-5G</string>
 		</dict>
 		<dict>
 			<key>PayloadCertificateFileName</key>
